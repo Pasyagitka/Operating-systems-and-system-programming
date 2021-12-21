@@ -1,4 +1,13 @@
 *.doc
 *.obj
 *.exe
-/CentOS folder
+*.docx
+
+**/Debug/
+**/.vs
+**/x64
+
+*.sln
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj
