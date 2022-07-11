@@ -1,0 +1,3 @@
+1. runas /user:PasyagitkaASUS\HTUser01 cmd.exe | runas /user:PasyagitkaASUS\HTUser02 cmd.exe
+2. cd /D "D:\6 semester\Laboratory\Operating-systems-and-system-programming\OSSP_lr13\13"
+cd /D "D:\Code\OS\lab15\bat"
